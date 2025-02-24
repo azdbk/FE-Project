@@ -1,0 +1,11 @@
+Model Information:
+* title:	Monster
+* source:	https://sketchfab.com/3d-models/monster-9d66aa2b7f294acd81459fc35111d07f
+* author:	Hugo José (https://sketchfab.com/hugojoseqd)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Monster" (https://sketchfab.com/3d-models/monster-9d66aa2b7f294acd81459fc35111d07f) by Hugo José (https://sketchfab.com/hugojoseqd) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
